@@ -1,0 +1,23 @@
+{
+  "number": "1024",
+  "from": { "name": "Northwind Studio", "address": "12 Keizersgracht\n1015 Amsterdam\nNetherlands" },
+  "bill_to": { "name": "Acme Corp", "address": "440 Market Street\nSan Francisco, CA 94111" },
+  "ship_to": { "name": "Acme Warehouse", "address": "8 Dockside Road\nOakland, CA 94607" },
+  "date": "2026-06-20",
+  "payment_terms": "Net 14",
+  "due_date": "2026-07-04",
+  "po_number": "PO-5567",
+  "currency": "$",
+  "items": [
+    { "description": "Brand identity design", "quantity": 1, "rate": 2400 },
+    { "description": "Landing page build", "quantity": 1, "rate": 1800 },
+    { "description": "Copywriting (per page)", "quantity": 6, "rate": 120 },
+    { "description": "Stock photography license", "quantity": 3, "rate": 45 }
+  ],
+  "tax_rate": 9,
+  "discount": 250,
+  "shipping": 0,
+  "amount_paid": 1000,
+  "notes": "Thanks for your business. Reach out with any questions about this invoice.",
+  "terms": "Payment due within 14 days. Late payments are subject to a 2% monthly fee."
+}

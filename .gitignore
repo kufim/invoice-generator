@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Generated invoices
+*.pdf
+invoice_*.pdf
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
